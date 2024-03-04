@@ -2,7 +2,7 @@
 
 I'm Kuba and I'm a computer science passionate who likes to explore new fields and topics. 🦦
 
-- 🦉 I’m currently learning Erlang and Elixir.
+- 🦀 I’m currently learning Tounge of The Decapods.
 - 🐘 I'm interested in game development, data science, multimedia and more.
 - 🦧 I'm a multimedia software engineer at Software Mansion as a member of the [Membrane Framework](https://github.com/membraneframework) team.
 - 🦆 I'm an embedded software engineer at Solar Plane AGH scientific club.
