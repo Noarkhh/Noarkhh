@@ -1,11 +1,11 @@
 ### Hello! 🙌
 
-I'm Kuba and I'm a computer science passionate who likes to explore new fields and topics. 🦦
+I'm Kuba and I'm a software engineer and a computer science passionate. 🦦
 
-- 🦀 I’m currently learning Tounge of The Decapods.
-- 🐘 I'm interested in game development, data science, multimedia and more.
-- 🦧 I'm a multimedia software engineer at Software Mansion as a member of the [Membrane Framework](https://github.com/membraneframework) team.
-- 🦆 I'm an embedded software engineer at Solar Plane AGH scientific club.
+- 🦀 Currently learning Rust.
+- 🐘 Interested in game development, data science, multimedia and more.
+- 🦧 Multimedia software engineer at Software Mansion as a member of the [Membrane Framework](https://github.com/membraneframework) team.
+- 🦆 Embedded software engineer at Solar Plane AGH scientific club.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noarkhh&exclude_repo=NumericalMethods&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noarkhh&exclude_repo=NumericalMethods&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
