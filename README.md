@@ -2,8 +2,8 @@
 
 I'm Kuba and I'm a software engineer and a computer science passionate. 🦦
 
-- 🦀 Currently learning Rust.
-- 🐘 Interested in game development, data science, multimedia and more.
+- 🦀⭐ Currently learning Rust and Gleam.
+- 🐘 Interested in game development, functional programming, multimedia and more.
 - 🦧 Multimedia software engineer at Software Mansion as a member of the [Membrane Framework](https://github.com/membraneframework) team.
 - 🦆 Embedded software engineer at Solar Plane AGH scientific club.
 <!--
