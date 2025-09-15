@@ -1,25 +1,8 @@
-### Hello! 🙌
+### there are bugs under my skin and i cherish them
 
-I'm Kuba and I'm a software engineer and a computer science passionate. 🦦
+welcome on my profile, make yourself at home, keep yourself warm and hydrated
 
-- 🦀⭐ Currently learning Rust and Gleam.
-- 🐘 Interested in game development, functional programming, multimedia and more.
-- 🦧 Multimedia software engineer at Software Mansion as a member of the [Membrane Framework](https://github.com/membraneframework) team.
-- 🦆 Embedded software engineer at Solar Plane AGH scientific club.
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noarkhh&exclude_repo=NumericalMethods&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noarkhh&exclude_repo=NumericalMethods&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-**Noarkhh/Noarkhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me:
+- low profile functional programming occultist
+- insect sympathizer
+- membrane weaver at [membrane framework](https://github.com/membraneframework).
